@@ -1,0 +1,1 @@
+# ProjetoIndividualReactNative-2024.2
